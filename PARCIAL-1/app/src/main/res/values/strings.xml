@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string-array name="options_array">
+        <item>---Seleccione---</item>
+        <item>Registrar Producto</item>
+        <item>Productos sin IVA</item>
+        <item>Productos con IVA</item>
+        <item>Promedio de valor de productos</item>
+        <item>Productos por categoria</item>
+        <item>10 productos mas costosos</item>
+        <item>10 productos menos costosos</item>
+        <item>Ver todos los registros</item>
+
+    </string-array>
+    <string-array name="opcion_unique">
+        <item>---Seleccione---</item>
+        <item>Registrar Producto</item>
+    </string-array>
+
+    <string-array name="spIva">
+        <item>Si</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="categoriaCost">
+        <item>Mostrar mas costosos</item>
+        <item>Mostrar mas barato</item>
+    </string-array>
+</resources>
